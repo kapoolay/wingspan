@@ -1,5 +1,6 @@
 .container {
     margin-top: 80px;
+    background: url("wing.jpg") no-repeat right;
 }
 .form-signup > div {
     padding: 10px;
@@ -11,3 +12,13 @@
 .nav-item{
     padding: 10px;
 }
+.tab {
+    margin-left: 50px;
+}
+.jumbotron {
+    background: purple;
+    color: yellow;
+}
+
+
+
